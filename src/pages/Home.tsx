@@ -192,7 +192,7 @@ const skillCategories = [
     title: 'Database Management',
     skills: ['PostgreSQL', 'MySQL', 'TypeORM', 'Prisma'],
     icon: '🗄️',
-    description: 'Designing and optimizing database structures for efficient data storage and retrieval.'
+    description: 'Designing and optimizing the database structures for efficient data storage and retrieval.'
   }
 ];
 
